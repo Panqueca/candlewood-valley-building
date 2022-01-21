@@ -45,9 +45,35 @@ Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindure
 
 ### FAQ
 
+#### Is it hard to fill the data required for the software to work properly?
+
+A: Not hard at all, only a few input fields every time a new job is added.
+
+#### Who will update the steps for each job in the plataform?
+
+A: The idea is the responsible for each sector will take care of that. You'll only watch.
+
+#### The software will be available for Desktop and Mobile devices?
+
+A: Yes and we always make sure the software is easy to use for mobile users.
+
+#### How much time is spent to update each job step?
+
+A: Little to none. Just one click is needed to advance to the next project stage.
 
 
-### Why i'm the best person to solve this problem
+
+
+
+### Why GeatScale?
+
+We believe that we have a better undarstanding of your business, because Leonardo can see the issues from inside.&#x20;
+
+Combining that with our Strategic Management Expertize gained working with Rookau.com, we can provide all the resources that you need with a simple and modern design.
+
+
+
+All in one service, where your vision becames reality.
 
 
 
