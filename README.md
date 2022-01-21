@@ -28,18 +28,18 @@ Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindure
 
 #### Data Science
 
-* [x] money spende per project
-* [x] acurate time that the job started
-* [x] wood spending track
+* [x] Money spende per project.
+* [x] Accurate time each job started.
+* [x] Wood spending tracking.
 
 #### Organization
 
-* [x] Keep track of witch step the job is (overall for all jobs)
-* [x] Help to make sure that the job wont go late
+* [x] Keep track of which step the job is (overall for all jobs).
+* [x] Help to make sure the job won't go late.
 
-#### Faciliate decision making
+#### Faciliate Decision Making
 
-* [x] Better undestanding of time and money aplied in each job
+* [x] Better undestanding of time and money applied in each job.
 
 
 
@@ -60,8 +60,6 @@ A: Yes and we always make sure the software is easy to use for mobile users.
 #### How much time is spent to update each job step?
 
 A: Little to none. Just one click is needed to advance to the next project stage.
-
-
 
 
 
