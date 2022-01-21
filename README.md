@@ -14,13 +14,14 @@ Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindure
 
 ### Features
 
-* [x] Clients can see they job process (Like ordering a pizza)
-* [x] Software will be responsive Segmentation of what peaple can do (Access Management)
-* [x] Deshboard (Overall of things)
-* [x] Job priority order (Most important jobs apear first)
-* [x] Notifications tab for each user (user can see when is their time to take action on the job)&#x20;
-* [x] Starring job
-* [x] Page for active job and page for jobs done
+* [x] Clients can see they job process (Like ordering a pizza).
+* [x] Software will be responsive Segmentation of what peaple can do (Access Management).
+* [x] Deshboard (Overall of things).
+* [x] Job priority order (Most important jobs apear first).
+* [x] Notifications tab for each user (user can see when is their time to take action on the job).
+* [x] Starring job.
+* [x] Page for active job and page for jobs done.
+* [x] Graphs to visualize material stock over time and other data.
 
 
 
