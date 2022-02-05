@@ -4,19 +4,21 @@
 
 ![Where you can see all the REQUESTS, WARNINGS and stock distribution. Every time someone take action you and all the             responsible will receive a notification.](.gitbook/assets/cvb-1.PNG)
 
-![Here you can track what is happening with all the jobs in production, you will have a overall vision of job dates and production    process. Also all the responsible will know witch job have priority to finish first.](.gitbook/assets/cvb-2.PNG)
+![Here you can track what's happening with all the jobs in production, you'll have a overall vision of job dealines and production    workflow. Also all the responsibles will know wich jobs have priority to be completed first.](.gitbook/assets/cvb-2.PNG)
 
-![This is the project page, here you can see the important job information and the WORKFLOW. The workflow is a feature that allows workers to keep track of specific steps for each job, by doing that we can track when each step started and we can display the progress on your dashboard.  ](.gitbook/assets/Capture.PNG)
+![This is the project page, here you can see the important job information and the WORKFLOW.
+The workflow is a feature that allows workers to keep track of specific steps for each job, by doing that we can track when each step started and we can display the progress on your dashboard.  ](.gitbook/assets/Capture.PNG)
 
 ### Features
 
-* [x] Dashboard.
-* [x] Software will be responsive Segmentation of what people can do (Access Management).
-* [x] Job priority order (Most important jobs appear first).
-* [x] Notifications tab for each user (user can see when is their time to take action on the job).
+* [x] Dashboard overview.
+* [x] Software will be responsive.
+* [x] Access Management.
+* [x] Job priority order.
+* [x] Notifications tab for each user.
 * [x] Starring job.
 * [x] Graphs to visualize material stock over time and other important data.
-* [x] Clients can see they job process (Like ordering a pizza online).
+* [x] Clients can see their order process on the website.
 
 
 
@@ -24,13 +26,13 @@
 
 #### Data analytics
 
-* [x] Money spend per project.
-* [x] Accurate time each job started.
+* [x] Track money spend per project.
+* [x] Accurate time when each job started.
 * [x] Wood spending tracking.
 
 #### Organization
 
-* [x] Keep track of which step the job is.
+* [x] Keep track of wich step the job currently is.
 * [x] Help to make sure the job won't go late.
 * [x] The notification feature will let each sector know when to act on the job.
 
@@ -38,7 +40,7 @@
 
 * [x] Better understanding of time and money applied in each job.
 * [x] Better client quoting.
-* [x] More effective when ordering material
+* [x] More effective when ordering material.
 
 
 
