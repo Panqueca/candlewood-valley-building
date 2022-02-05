@@ -2,45 +2,43 @@
 
 ## CVB Workflow Process Optimizer            Organization in One Place
 
-![](<.gitbook/assets/image (2).png>)
+![Where you can see all the REQUESTS, WARNINGS and stock distribution. Every time someone take action you and all the             responsible will receive a notification.](.gitbook/assets/cvb-1.PNG)
 
-Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindureta.Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Copo furadis é disculpa de bebadis, arcu quam euismod magna.Detraxit consequat et quo num tendi nada.
+![Here you can track what is happening with all the jobs in production, you will have a overall vision of job dates and production    process. Also all the responsible will know witch job have priority to finish first.](.gitbook/assets/cvb-2.PNG)
 
-
-
-![](.gitbook/assets/image.png)
-
-Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindureta.Tá deprimidis, eu conheço uma cachacis que pode alegrar sua vidis.Copo furadis é disculpa de bebadis, arcu quam euismod magna.Detraxit consequat et quo num tendi nada.
+![This is the project page, here you can see the important job information and the WORKFLOW. The workflow is a feature that allows workers to keep track of specific steps for each job, by doing that we can track when each step started and we can display the progress on your dashboard.  ](.gitbook/assets/Capture.PNG)
 
 ### Features
 
-* [x] Clients can see they job process (Like ordering a pizza).
-* [x] Software will be responsive Segmentation of what peaple can do (Access Management).
-* [x] Deshboard (Overall of things).
-* [x] Job priority order (Most important jobs apear first).
+* [x] Dashboard.
+* [x] Software will be responsive Segmentation of what people can do (Access Management).
+* [x] Job priority order (Most important jobs appear first).
 * [x] Notifications tab for each user (user can see when is their time to take action on the job).
 * [x] Starring job.
-* [x] Page for active job and page for jobs done.
-* [x] Graphs to visualize material stock over time and other data.
+* [x] Graphs to visualize material stock over time and other important data.
+* [x] Clients can see they job process (Like ordering a pizza online).
 
 
 
 ### Benefits
 
-#### Data Science
+#### Data analytics
 
-* [x] Money spende per project.
+* [x] Money spend per project.
 * [x] Accurate time each job started.
 * [x] Wood spending tracking.
 
 #### Organization
 
-* [x] Keep track of which step the job is (overall for all jobs).
+* [x] Keep track of which step the job is.
 * [x] Help to make sure the job won't go late.
+* [x] The notification feature will let each sector know when to act on the job.
 
-#### Faciliate Decision Making
+#### Facilitate Decision Making
 
-* [x] Better undestanding of time and money applied in each job.
+* [x] Better understanding of time and money applied in each job.
+* [x] Better client quoting.
+* [x] More effective when ordering material
 
 
 
@@ -50,7 +48,7 @@ Mussum Ipsum, cacilds vidis litro abertis. Cevadis im ampola pa arma uma pindure
 
 A: Not hard at all, only a few input fields every time a new job is added.
 
-#### Who will update the steps for each job in the plataform?
+#### Who will update the steps for each job in the platform?
 
 A: The idea is the responsible for each sector will take care of that. You'll only watch.
 
@@ -66,14 +64,14 @@ A: Little to none. Just one click is needed to advance to the next project stage
 
 ### Why GeatScale?
 
-We believe that we have a better undarstanding of your business, because Leonardo can see the issues from inside.&#x20;
+We believe that we have a better understanding of your business, because Leonardo can see the issues from inside.&#x20;
 
-Combining that with our Strategic Management Expertize gained working with Rookau.com, we can provide all the resources that you need with a simple and modern design.
-
-
-
-All in one service, where your vision becames reality.
+Combining that with our Strategic Management Expertise gained working with Rookau.com and other clients, we can provide all the resources that you need with a simple and modern design.
 
 
 
-### MVP DASHBOARD
+All in one service, where your vision becomes reality.
+
+
+
+### [https://deploy-candlewood.vercel.app/](https://deploy-candlewood.vercel.app)
