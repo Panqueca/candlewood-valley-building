@@ -4,7 +4,7 @@
 
 ![Where you can see all the REQUESTS, WARNINGS and stock distribution. Every time someone take action you and all the             responsible will receive a notification.](.gitbook/assets/cvb-1.PNG)
 
-![Here you can track what's happening with all the jobs in production, you'll have a overall vision of job dealines and production    workflow. Also all the responsibles will know wich jobs have priority to be completed first.](.gitbook/assets/cvb-2.PNG)
+![Here you can track what's happening with all the jobs in production, you'll have a overall vision of job dealines and production    workflow. Also all the responsibles will know which jobs have priority to be completed first.](.gitbook/assets/cvb-2.PNG)
 
 ![This is the project page, here you can see the important job information and the WORKFLOW.
 The workflow is a feature that allows workers to keep track of specific steps for each job, by doing that we can track when each step started and we can display the progress on your dashboard.  ](.gitbook/assets/Capture.PNG)
@@ -32,7 +32,7 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 
 #### Organization
 
-* [x] Keep track of wich step the job currently is.
+* [x] Keep track of which step the job currently is.
 * [x] Help to make sure the job won't go late.
 * [x] The notification feature will let each sector know when to act on the job.
 
