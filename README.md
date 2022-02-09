@@ -2,9 +2,13 @@
 
 ## CVB Workflow Process Optimizer            Organization in One Place
 
+#### Dashboard Page
+
 ![](<.gitbook/assets/image (3).png>)
 
 Where you can see all the REQUESTS, WARNINGS and stock distribution. Also, every time someone take action you and all the responsible will receive a notification.
+
+#### Current Jobs
 
 ![](<.gitbook/assets/image (2).png>)
 
