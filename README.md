@@ -23,9 +23,9 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 
 ### Features
 
-* [x] Dashboard overview.
+* [x] Dashboard overview and insights.
 * [x] The software will be available for mobile devices.
-* [x] Access Management.
+* [x] Access management.
 * [x] Job priority order.
 * [x] Notifications tab for each user.
 * [x] Starring job.
