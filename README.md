@@ -41,7 +41,7 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 
 * [x] Track money spend per project.
 * [x] Accurate time when each job started.
-* [x] Wood spending tracking.
+* [x] Demage control: Save money by tracking inventory.
 
 #### Organization
 
