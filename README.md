@@ -25,6 +25,7 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 
 * [x] Dashboard overview and insights.
 * [x] The software will be available for mobile devices.
+* [x] Inventory management (lumber, plywood, mesh, stock vanities).
 * [x] Access management.
 * [x] Job priority order.
 * [x] Notifications tab for each user.
