@@ -14,10 +14,12 @@ Where you can see all the REQUESTS, WARNINGS and stock distribution. Also, every
 
 Here you can track what's happening with all the jobs in production, you'll have a overall vision of job deadlines and production workflow. Also all the responsibles will know which jobs have priority to be completed first.
 
+#### Internal Job Page
+
 ![](.gitbook/assets/image.png)
 
-This is the project page, here you can see the important job information and the WORKFLOW.\
-The workflow is a feature that allows workers to keep track of specific steps for each job, by doing that we can track when each step started and we can display the progress on your dashboard. &#x20;
+This is the project internal page, here you can see the important job information and the WORKFLOW.\
+The workflow is a feature that allows workers to keep track of specific steps for each job so it's possible to track when each step started and we can display the progress on your dashboard. &#x20;
 
 ### Features
 
