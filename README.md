@@ -4,7 +4,7 @@
 
 #### Dashboard Page
 
-![](<.gitbook/assets/image (3).png>)
+![](.gitbook/assets/image.png)
 
 Where you can see all the REQUESTS, WARNINGS and stock distribution. Also, every time someone take action you and all the responsible will receive a notification.
 
@@ -16,7 +16,7 @@ Here you can track what's happening with all the jobs in production, you'll have
 
 #### Internal Job Page
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 This is the project internal page, here you can see the important job information and the WORKFLOW.\
 The workflow is a feature that allows workers to keep track of specific steps for each job so it's possible to track when each step started and we can display the progress on your dashboard. &#x20;
@@ -24,7 +24,7 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 ### Features
 
 * [x] Dashboard overview.
-* [x] Software will be responsive.
+* [x] The software will be available for mobile devices.
 * [x] Access Management.
 * [x] Job priority order.
 * [x] Notifications tab for each user.
@@ -54,7 +54,10 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 * [x] Better client quoting.
 * [x] More effective when ordering material.
 
+#### Strengthen the Brand
 
+* [x] Add more value for the clients with a exclusive experience.
+* [x] A way to standout over your competitors (_e.g. Christopher Peacock Cabinetry)._
 
 ### FAQ
 
