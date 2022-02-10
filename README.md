@@ -16,7 +16,7 @@ Here you can track what's happening with all the jobs in production, you'll have
 
 #### Internal Job Page
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (4).png>)
 
 This is the project internal page, here you can see the important job information and the WORKFLOW.\
 The workflow is a feature that allows workers to keep track of specific steps for each job so it's possible to track when each step started and we can display the progress on your dashboard. &#x20;
