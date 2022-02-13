@@ -59,6 +59,7 @@ The workflow is a feature that allows workers to keep track of specific steps fo
 
 * [x] Add more value for the clients with a exclusive experience.
 * [x] A way to standout over your competitors (_e.g. Christopher Peacock Cabinetry)._
+* [x] Easier to grow and expand the operations, using this software as a multi-factory manager.
 
 ### FAQ
 
